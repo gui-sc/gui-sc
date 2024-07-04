@@ -6,6 +6,7 @@
 ![Snake animation](https://raw.githubusercontent.com/gui-sc/gui-sc/output/github-contribution-grid-snake-dark.svg)
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or and/or PostgreSQL and/or NoSQL on backend
+
 🤔 I'm currently working on React and Node.js with Typescript and DynamoDB
 
 ✨ I study: React, Docker, Typescript
