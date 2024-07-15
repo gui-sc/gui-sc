@@ -14,7 +14,7 @@
 ## About me:
 - 😄 Fun fact: I have big Java projects in my repository, but I haven't worked on them for a long time
 - 📫 How to reach me: [Email](gui.silveiracoelho@gmail.com)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="javascript logo"  />
 ## My stack:
 - 3+ years of experience in React, Node.js, Express.js, async, await
 - 2+ years of experience in Typescript, PostgreSQL
