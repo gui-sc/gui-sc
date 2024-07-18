@@ -11,6 +11,8 @@
 
 ✨ I study: React, Docker, Typescript
 
+📫 How to reach me: [Email](gui.silveiracoelho@gmail.com)
+
 ## Languages and Tools:
 <div align="left">
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
@@ -68,23 +70,15 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="30" alt="swagger logo"  /></code>
 </div>
 
-## About me:
-- 😄 Fun fact: I have big Java projects in my repository, but I haven't worked on them for a long time
-- 📫 How to reach me: [Email](gui.silveiracoelho@gmail.com)
-
 ## My stack:
-- 3+ years of experience in React, Node.js, Express.js, async, await
-- 2+ years of experience in Typescript, PostgreSQL
+- 3+ years of experience in React, Node.js, Express.js, async, await, Typescript, PostgreSQL
 - API, RESTful API
 - HTML/CSS, Javascript
-- git
+- Git
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, DynamoDB ...
 
 ## My Journey
 <div>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gui-sc&theme=dracula&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-  
   <img width="400px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gui-sc&layout=compact&theme=dracula" />
 </div>
 
