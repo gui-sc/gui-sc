@@ -9,7 +9,7 @@
 
 🤔 I'm currently working on React and Node.js with Typescript and DynamoDB
 
-✨ I study: React, Docker, Typescript
+✨ I'm studying: Docker, Kubernetes
 
 📫 How to reach me: [Email](gui.silveiracoelho@gmail.com)
 
@@ -47,6 +47,12 @@
   <img width="20" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
   <img width="20" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="30" alt="kubernetes logo"  /></code>
+  <img width="20" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  /></code>
+  <img width="20" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="kubernetes logo"  /></code>
+  <img width="20" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  /></code>
   <img width="20" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" height="30" alt="dynamodb logo"  /></code>
@@ -67,6 +73,8 @@
   <img width="20" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  /></code>
   <img width="20" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="sqlite logo"  /></code>
+  <img width="20" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="30" alt="swagger logo"  /></code>
 </div>
 
@@ -75,7 +83,7 @@
 - API, RESTful API
 - HTML/CSS, Javascript
 - Git
-- SQL, MySQL, NoSQL, Redis, PostgreSQL, DynamoDB ...
+- SQL, MySQL, NoSQL, Redis, PostgreSQL, DynamoDB, MongoDB ...
 
 ## My Journey
 <div>
