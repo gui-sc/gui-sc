@@ -51,7 +51,7 @@
   <img width="20" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  /></code>
   <img width="20" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="kubernetes logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  /></code>
   <img width="20" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  /></code>
   <img width="20" />
