@@ -3,8 +3,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gui-sc.gui-sc&left_color=royalblue&right_color=black"  />
 <h3 align="center">A Beginner Full-Stack Developer from Santa Catarina - Brazil 🇧🇷 </h3>
 
-![Snake animation](https://raw.githubusercontent.com/gui-sc/gui-sc/output/github-contribution-grid-snake-dark.svg)
-
 ❤️ I prefer React on frontend and Node.js with MySQL and/or and/or PostgreSQL and/or NoSQL on backend
 
 🤔 I'm currently working on React and Node.js with Typescript and DynamoDB
