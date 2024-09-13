@@ -7,7 +7,7 @@
 
 🤔 I'm currently working on React and Node.js with Typescript and DynamoDB
 
-✨ I'm studying: Docker, Kubernetes
+✨ I'm studying: GO
 
 📫 How to reach me: [Email](gui.silveiracoelho@gmail.com)
 
