@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi, I'm Guilherme 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gui-sc.gui-sc&left_color=royalblue&right_color=black"  />
 <h3 align="center">A Beginner Full-Stack Developer from Santa Catarina - Brazil 🇧🇷 </h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or and/or PostgreSQL and/or NoSQL on backend
@@ -83,13 +82,3 @@
 - Git
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, DynamoDB, MongoDB ...
 
-## My Journey
-<div>
-  <img width="400px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gui-sc&layout=compact&theme=dracula" />
-</div>
-
-## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=gui-sc&theme=dracula&title=Experience,Commits,Repositories&margin-w=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
