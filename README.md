@@ -6,13 +6,15 @@
 
 🤔 I'm currently working on React and Node.js with Typescript and DynamoDB
 
-✨ I'm studying: GO
+✨ I'm studying: Go, AWS and Design Patterns
 
 📫 How to reach me: [Email](gui.silveiracoelho@gmail.com)
 
 ## Languages and Tools:
 <div align="left">
- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="golang logo"  /></code>
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
   <img width="30" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></code>
   <img width="30" />
