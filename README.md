@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Guilherme 👋 </h1>
-<h3 align="center">A Beginner Full-Stack Developer from Santa Catarina - Brazil 🇧🇷 </h3>
+<h3 align="center">A Full-Stack Developer from Santa Catarina - Brazil 🇧🇷 </h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or and/or PostgreSQL and/or NoSQL on backend
 
