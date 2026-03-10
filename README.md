@@ -78,9 +78,9 @@
 </div>
 
 ## My stack:
-- 3+ years of experience in React, Node.js, Express.js, async, await, Typescript, PostgreSQL
+- 4+ years of experience in React, Node.js, Express.js, async, await, Typescript, GoLang
 - API, RESTful API
-- HTML/CSS, Javascript
+- AWS
 - Git
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, DynamoDB, MongoDB ...
 
